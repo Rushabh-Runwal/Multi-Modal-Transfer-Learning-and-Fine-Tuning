@@ -7,7 +7,7 @@ In this project, I explore how to leverage **existing pretrained models** and fi
 ---
 ## [Colab](https://colab.research.google.com/drive/1raQi887eefxzUoHAZdevxZP74PesTVaD?usp=sharing)
 
-## [Video Walkthroughs](youtube.com)
+## [Video Walkthroughs](https://youtu.be/_-e9K1c-nlw)
 
 👉 Check the `videos/` folder or linked YouTube playlist for **detailed walkthroughs** explaining:
 - Code architecture
