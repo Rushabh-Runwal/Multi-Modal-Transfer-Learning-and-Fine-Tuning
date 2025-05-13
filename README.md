@@ -5,6 +5,17 @@ This repository contains my Google Colab notebooks and detailed video walkthroug
 In this project, I explore how to leverage **existing pretrained models** and fine-tune them across **various data modalities**, including pose detection, crop disease detection, video classification, sound/audio classification, image segmentation, text-to-image generation, and more.
 
 ---
+## [Colab](https://colab.research.google.com/drive/1raQi887eefxzUoHAZdevxZP74PesTVaD?usp=sharing)
+
+## [Video Walkthroughs](youtube.com)
+
+👉 Check the `videos/` folder or linked YouTube playlist for **detailed walkthroughs** explaining:
+- Code architecture
+- Dataset preparation
+- Model fine-tuning details
+- Challenges faced and how they were solved
+
+---
 
 ## 📂 Repository Structure
 
@@ -72,16 +83,6 @@ Each task below has:
 - Hugging Face Diffusers: [documentation](https://huggingface.co/docs/diffusers/using-diffusers/controlling_generation)
 - Google I/O 2023 AI program: [link](https://io.google/2023/program/?q=ai)
 - Roboflow notebooks: [link](https://github.com/roboflow/notebooks)
-
----
-
-## 🎥 Video Walkthroughs
-
-👉 Check the `videos/` folder or linked YouTube playlist for **detailed walkthroughs** explaining:
-- Code architecture
-- Dataset preparation
-- Model fine-tuning details
-- Challenges faced and how they were solved
 
 ---
 
